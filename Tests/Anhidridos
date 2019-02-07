@@ -1,0 +1,47 @@
+CrO3.trioxido de cromo.(6,0).evalSist
+CrO3.oxido de cromo(VI).(6,0).evalStock
+CrO3.anhidrido cromico.(6,0).evalTrad
+P2O5.pentaoxido de difosforo.(3,0).evalSist
+P2O5.oxido de fosforo(III).(3,0).evalStock
+P2O5.anhidrido fosforico.(3,0).evalTrad
+MoO3.trioxido de molibdeno.(6,0).evalSist
+MoO3.oxido de molibdeno(VI).(6,0).evalStock
+CO.monoxido de carbono.(2,0).evalSist
+CO.oxido de carbono(II).(2,0).evalStock
+CO.anhidrido carbonoso.(2,0).evalTrad
+SO2.dioxido de azufre.(4,0).evalSist
+SO2.oxido de azufre(IV).(4,0).evalStock
+SO2.anhidrido sulfuroso.(4,0).evalTrad
+SeO3.trioxido de selenio.(6,0).evalSist
+SeO3.oxido de selenio(VI).(6,0).evalStock
+SeO3.anhidrido selenico.(6,0).evalTrad
+N2O.monoxido de dinitrogeno.(1,0).evalSist
+N2O.oxido de nitrogeno(I).(1,0).evalStock
+N2O.anhidrido hiponitroso.(1,0).evalTrad
+SiO2.dioxido de silicio.(4,0).evalSist
+SiO2.oxido de silicio.(4,0).evalStock
+SiO2.anhidrido silicico.(4,0).evalTrad
+CO2.dioxido de carbono.(4,0).evalSist
+CO2.oxido de carbono(IV).(4,0).evalStock
+CO2.anhidrido carbonico.(4,0).evalTrad
+SO3.trioxido de azufre.(6,0).evalSist
+SO3.oxido de azufre(VI).(6,0).evalStock
+SO3.anhidrido sulfurico.(6,0).evalTrad
+MnO2.dioxido de manganeso.(4,0).evalSist
+MnO2.oxido de manganeso(IV).(4,0).evalStock
+MnO2.anhidrido manganoso.(4,0).evalTrad
+N2O3.trioxido de dinitrogeno.(3,0).evalSist
+N2O3.oxido de nitrogeno(III).(3,0).evalStock
+N2O3.anhidrido nitroso.(3,0).evalTrad
+P2O3.trioxido de difosforo.(2,0).evalSist
+P2O3.oxido de fosforo(II).(2,0).evalStock
+P2O3.anhidrido fosforoso.(2,0).evalTrad
+Cl2O.monoxido de dicloro.(1,0).evalSist
+Cl2O.oxido de cloro(I).(1,0).evalStock
+Cl2O.anhidrido hipocloroso.(1,0).evalTrad
+CrO2.dioxido de cromo.(4,0).evalSist
+CrO2.oxido de cromo(IV).(4,0).evalStock
+CrO2.anhidrido cromoso.(4,0).evalTrad
+N2O5.pentaoxido de dinitrogeno.(5,0).evalSist
+N2O5.oxido de nitrogeno(V).(5,0).evalStock
+N2O5.anhidrido nitrico.(5,0).evalTrad

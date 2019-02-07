@@ -1,0 +1,12 @@
+HF.fluoruro de hidrogeno.(1,0).evalSist
+HF.acido fluorhidrico.(1,0).evalTrad
+HCl.cloruro de hidrogeno.(1,0).evalSist
+HCl.acido clorhidrico.(1,0).evalTrad
+HBr.bromuro de hidrogeno.(1,0).evalSist
+HBr.acido bromhidrico.(1,0).evalTrad
+HI.yoduro de hidrogeno.(1,0).evalSist
+HI.acido yodhidrico.(1,0).evalTrad
+H2S.sulfuro de hidrogeno.(1,0).evalSist
+H2S.acido sulfhidrico.(1,0).evalTrad
+H2Te.telururo de hidrogeno.(1,0).evalSist
+H2Te.acido telurhidrico.(1,0).evalTrad

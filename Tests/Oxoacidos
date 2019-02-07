@@ -1,0 +1,66 @@
+HClO.oxoclorato(I) de hidrogeno.(1,0).evalSist
+HClO.acido oxoclorico(I).(1,0).evalStock
+HClO.acido hipocloroso.(1,0).evalTrad
+HBrO2.dioxobromato(III) de hidrogeno.(3,0).evalSist
+HBrO2.acido dioxobromico(III).(3,0).evalStock
+HBrO2.acido bromoso.(3,0).evalTrad
+H2SO3.trioxosulfato(IV) de hidrogeno.(4,0).evalSist
+H2SO3.acido trioxosulfurico(IV).(4,0).evalStock
+H2SO3.acido sulfuroso.(4,0).evalTrad
+HNO3.trioxonitrato(V) de hidrogeno.(5,0).evalSist
+HNO3.acido trioxonitrico(V).(5,0).evalStock
+HNO3.acido nitrico.(5,0).evalTrad
+H4P2O7.heptaoxodifosfato(V) de hidrogeno.(5,0).evalSist
+H4P2O7.acido heptaoxodifosforico(V).(5,0).evalStock
+H4P2O7.acido pirofosforico.(5,0).evalTrad
+HClO3.trioxoclorato(V) de hidrogeno.(5,0).evalSist
+HClO3.acido trioxoclorico(V).(5,0).evalStock
+HClO3.acido clorico.(5,0).evalTrad
+H3BO3.trioxoborato(III) de hidrogeno.(3,0).evalSist
+H3BO3.acido trioxoborico(III).(3,0).evalStock
+H3BO3.acido ortoborico.(3,0).evalTrad
+HIO3.trioxoyodato(V) de hidrogeno.(5,0).evalSist
+HIO3.acido trioxoyodico(V).(5,0).evalStock
+HIO3.acido yodico.(5,0).evalTrad
+H2SO4.tetraoxosulfato(VI) de hidrogeno.(6,0).evalSist
+H2SO4.acido tetraoxosulfurico(VI).(6,0).evalStock
+H2SO4.acido sulfurico.(6,0).evalTrad
+HPO3.trioxofosfato(V) de hidrogeno.(5,0).evalSist
+HPO3.acido trioxofosforico(V).(5,0).evalStock
+HPO3.acido metafosforico.(5,0).evalTrad
+H3AsO3.trioxoarseniato(III) de hidrogeno.(3,0).evalSist
+H3AsO3.acido trioxoarsenico(III).(3,0).evalStock
+H3AsO3.acido ortoarsenioso.(3,0).evalTrad
+H2CrO4.tetraoxocromato(VI) de hidrogeno.(6,0).evalSist
+H2CrO4.acido tetraoxocromico(VI).(6,0).evalStock
+H2CrO4.acido cromico.(6,0).evalTrad
+HClO4.tetraoxoclorato(VII) de hidrogeno.(7,0).evalSist
+HClO4.acido tetraoxoclorico(VII).(7,0).evalStock
+HClO4.acido perclorico.(7,0).evalTrad
+HIO4.tetraoxoyodato(VII) de hidrogeno.(7,0).evalSist
+HIO4.acido tetraoxoyodico(VII).(7,0).evalStock
+HIO4.acido peryodico.(7,0).evalTrad
+H2SeO4.tetraoxoseleniato(VI) de hidrogeno.(6,0).evalSist
+H2SeO4.acido tetraoxoselenico(VI).(6,0).evalStock
+H2SeO4.acido selenico.(6,0).evalTrad
+H3PO3.trioxofosfato(III) de hidrogeno.(3,0).evalSist
+H3PO3.acido trioxofosforico(III).(3,0).evalStock
+H3PO3.acido ortofosforoso.(3,0).evalTrad
+H2CO3.trioxocarbonato(IV) de hidrogeno.(4,0).evalSist
+H2CO3.acido trioxocarbonico(IV).(4,0).evalStock
+H2CO3.acido carbonico.(4,0).evalTrad
+HBrO.oxobromato(I) de hidrogeno.(1,0).evalSist
+HBrO.acido oxobromico(I).(1,0).evalStock
+HBrO.acido hipobromoso.(1,0).evalTrad
+H2SO4.tetraoxosulfato(VI) de hidrogeno.(6,0).evalSist
+H2SO4.acido tetraoxosulfurico(VI).(6,0).evalStock
+H2SO4.acido sulfurico.(6,0).evalTrad
+HNO2.dioxonitrato(III) de hidrogeno.(3,0).evalSist
+HNO2.acido dioxonitrico(III).(3,0).evalStock
+HNO2.acido nitroso.(3,0).evalTrad
+H3PO4.tetraoxofosfato(V) de hidrogeno.(5,0).evalSist
+H3PO4.acido tetraoxofosforico(V).(5,0).evalStock
+H3PO4.acido ortofosforico.(5,0).evalTrad
+HBO2.dioxoborato(III) de hidrogeno.(3,0).evalSist
+HBO2.acido dioxoborico(III).(3,0).evalStock
+HBO2.acido metaborico.(3,0).evalTrad

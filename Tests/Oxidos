@@ -1,0 +1,92 @@
+Li2O.monoxido de dilitio.(1,0).evalSist
+Li2O.oxido de litio.(1,0).evalStock
+Li2O.oxido litico.(1,0).evalTrad
+Al2O3.trioxido de dialuminio.(3,0).evalSist
+Al2O3.oxido de aluminio.(3,0).evalStock
+Al2O3.oxido aluminico.(3,0).evalTrad
+FeO.monoxido de hierro.(2,0).evalSist
+FeO.oxido de hierro(II).(2,0).evalStock
+FeO.oxido ferroso.(2,0).evalTrad
+Ni2O3.trioxido de diniquel.(3,0).evalSist
+Ni2O3.oxido de niquel(III).(3,0).evalStock
+Ni2O3.oxido niquelico.(3,0).evalTrad
+Rb2O.monoxido de dirubidio.(1,0).evalSist
+Rb2O.oxido de rubidio.(1,0).evalStock
+Rb2O.oxido rubidico.(1,0).evalTrad
+RuO4.tetraoxido de rutenio.(8,0).evalSist
+RuO4.oxido de rutenio(VIII).(8,0).evalStock
+SnO.monoxido de estaño.(2,0).evalSist
+SnO.oxido de estaño(II).(2,0).evalStock
+SnO.oxido estañoso.(2,0).evalTrad
+Ce2O3.trioxido de dicerio.(3,0).evalSist
+Ce2O3.oxido de cerio(III).(3,0).evalStock
+Ce2O3.oxido cerioso.(3,0).evalTrad
+Ho2O3.trioxido de diholmio.(3,0).evalSist
+Ho2O3.oxido de holmio.(3,0).evalStock
+Ho2O3.oxido holmico.(3,0).evalTrad
+Re2O7.heptaoxido de direnio.(7,0).evalSist
+Re2O7.oxido de renio(VII).(7,0).evalStock
+Re2O7.oxido renico.(7,0).evalTrad
+HgO.monoxido de mercurio.(2,0).evalSist
+HgO.oxido de mercurio(II).(2,0).evalStock
+HgO.oxido mercurico.(2,0).evalTrad
+NO.monoxido de nitrogeno.(2,0).evalSist
+NO.oxido de nitrogeno(II).(2,0).evalStock
+NO.oxido nitroso.(2,0).evalTrad
+BeO.monoxido de berilio.(2,0).evalSist
+BeO.oxido de berilio.(2,0).evalStock
+BeO.oxido berilico.(2,0).evalTrad
+Fe2O3.trioxido de dihierro.(3,0).evalSist
+Fe2O3.oxido de hierro(III).(3,0).evalStock
+Fe2O3.oxido ferrico.(3,0).evalTrad
+Cu2O.monoxido de dicobre.(1,0).evalSist
+Cu2O.oxido de cobre(I).(1,0).evalStock
+Cu2O.oxido cuproso.(1,0).evalTrad
+SrO.monoxido de estroncio.(2,0).evalSist
+SrO.oxido de estroncio.(2,0).evalStock
+SrO.oxido estroncico.(2,0).evalTrad
+Rh2O3.trioxido de dirodio.(3,0).evalSist
+Rh2O3.oxido de rodio(III).(3,0).evalStock
+Rh2O3.oxido rodioso.(3,0).evalTrad
+Cs2O.monoxido de dicesio.(1,0).evalSist
+Cs2O.oxido de cesio.(1,0).evalStock
+Cs2O.oxido cesico.(1,0).evalTrad
+Nd2O3.trioxido de dineodimio.(3,0).evalSist
+Nd2O3.oxido de neodimio.(3,0).evalStock
+Nd2O3.oxido neodimico.(3,0).evalTrad
+PbO.monoxido de plomo.(2,0).evalSist
+PbO.oxido de plomo(II).(2,0).evalStock
+PbO.oxido plumboso.(2,0).evalTrad
+NO2.dioxido de nitrogeno.(4,0).evalSist
+NO2.oxido de nitrogeno(IV).(4,0).evalStock
+NO2.oxido nitrico.(4,0).evalTrad
+CoO.monoxido de cobalto.(2,0).evalSist
+CoO.oxido de cobalto(II).(2,0).evalStock
+CoO.oxido cobaltoso.(2,0).evalTrad
+CuO.monoxido de cobre.(2,0).evalSist
+CuO.oxido de cobre(II).(2,0).evalStock
+CuO.oxido cuprico.(2,0).evalTrad
+Gd2O3.trioxido de digadolinio.(3,0).evalSist
+Gd2O3.oxido de gadolinio.(3,0).evalStock
+Gd2O3.oxido gadolinico.(3,0).evalTrad
+PbO2.dioxido de plomo.(4,0).evalSist
+PbO2.oxido de plomo(IV).(4,0).evalStock
+PbO2.oxido plumbico.(4,0).evalTrad
+Cr2O3.trioxido de dicromo.(3,0).evalSist
+Cr2O3.oxido de cromo(III).(3,0).evalStock
+Cr2O3.oxido cromico.(3,0).evalTrad
+MgO.monoxido de magnesio.(2,0).evalSist
+MgO.oxido de magnesio.(2,0).evalStock
+MgO.oxido magnesico.(2,0).evalTrad
+Nb2O5.pentaoxido de diniobio.(5,0).evalSist
+Nb2O5.oxido de niobio(V).(5,0).evalStock
+Nb2O5.oxido perniobico.(5,0).evalTrad
+Au2O3.trioxido de dioro.(3,0).evalSist
+Au2O3.oxido de oro(III).(3,0).evalStock
+Au2O3.oxido aurico.(3,0).evalTrad
+Bi2O3.trioxido de dibismuto.(3,0).evalSist
+Bi2O3.oxido de bismuto(III).(3,0).evalStock
+Bi2O3.oxido bismutoso.(3,0).evalTrad
+Mn2O3.trioxido de dimanganeso.(3,0).evalSist
+Mn2O3.oxido de manganeso(III).(3,0).evalStock
+Mn2O3.oxido manganico.(3,0).evalTrad

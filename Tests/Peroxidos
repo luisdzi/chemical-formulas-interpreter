@@ -1,0 +1,27 @@
+H2(O2).peroxido de dihidrogeno.(1,0).evalSist
+H2(O2).peroxido de hidrogeno.(1,0).evalStock
+H2(O2).peroxido hidrogenico.(1,0).evalTrad
+Ca(O2).peroxido de calcio.(2,0).evalSist
+Ca(O2).peroxido de calcio.(2,0).evalStock
+Ca(O2).peroxido calcico.(2,0).evalTrad
+Li2(O2).peroxido de dilitio.(1,0).evalSist
+Li2(O2).peroxido de litio.(1,0).evalStock
+Li2(O2).peroxido litico.(1,0).evalTrad
+Zn(O2).peroxido de cinc.(2,0).evalSist
+Zn(O2).peroxido de cinc.(2,0).evalStock
+Zn(O2).peroxido cincico.(2,0).evalTrad
+Na2(O2).peroxido de disodio.(1,0).evalSist
+Na2(O2).peroxido de sodio.(1,0).evalStock
+Na2(O2).peroxido sodico.(1,0).evalTrad
+Ag2(O2).peroxido de diplata.(1,0).evalSist
+Ag2(O2).peroxido de plata.(1,0).evalStock
+Ag2(O2).peroxido argentico.(1,0).evalTrad
+Mg(O2).peroxido de magnesio.(2,0).evalSist
+Mg(O2).peroxido de magnesio.(2,0).evalStock
+Mg(O2).peroxido magnesico.(2,0).evalTrad
+Ba(O2).peroxido de bario.(2,0).evalSist
+Ba(O2).peroxido de bario.(2,0).evalStock
+Ba(O2).peroxido barico.(2,0).evalTrad
+Cr2(O2)3.triperoxido de dicromo.(3,0).evalSist
+Cr2(O2)3.peroxido de cromo(III).(3,0).evalStock
+Cr2(O2)3.peroxido cromico.(3,0).evalTrad

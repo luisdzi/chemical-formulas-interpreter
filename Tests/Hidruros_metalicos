@@ -1,0 +1,30 @@
+LiH.monohidruro de litio.(1,0).evalSist
+LiH.hidruro de litio.(1,0).evalStock
+LiH.hidruro litico.(1,0).evalTrad
+AlH3.trihidruro de aluminio.(3,0).evalSist
+AlH3.hidruro de aluminio.(3,0).evalStock
+AlH3.hidruro aluminico.(3,0).evalTrad
+BeH2.dihidruro de berilio.(2,0).evalSist
+BeH2.hidruro de berilio.(2,0).evalStock
+BeH2.hidruro berilico.(2,0).evalTrad
+KH.monohidruro de potasio.(1,0).evalSist
+KH.hidruro de potasio.(1,0).evalStock
+KH.hidruro potasico.(1,0).evalTrad
+NaH.monohidruro de sodio.(1,0).evalSist
+NaH.hidruro de sodio.(1,0).evalStock
+NaH.hidruro sodico.(1,0).evalTrad
+CaH2.dihidruro de calcio.(2,0).evalSist
+CaH2.hidruro de calcio.(2,0).evalStock
+CaH2.hidruro calcico.(2,0).evalTrad
+MgH2.dihidruro de magnesio.(2,0).evalSist
+MgH2.hidruro de magnesio.(2,0).evalStock
+MgH2.hidruro magnesico.(2,0).evalTrad
+TiH2.dihidruro de titanio.(2,0).evalSist
+TiH2.hidruro de titanio(II).(2,0).evalStock
+TiH2.hidruro hipotitanioso.(2,0).evalTrad
+VH5.pentahidruro de vanadio.(5,0).evalSist
+VH5.hidruro de vanadio(V).(5,0).evalStock
+VH5.hidruro pervanadico.(5,0).evalTrad
+VH2.dihidruro de vanadio.(2,0).evalSist
+VH2.hidruro de vanadio(II).(2,0).evalStock
+VH2.hidruro hipovanadioso.(2,0).evalTrad

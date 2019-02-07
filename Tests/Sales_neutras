@@ -1,0 +1,33 @@
+AlF3.trifluoruro de aluminio.(3,-1).evalSist
+AlF3.fluoruro de aluminio.(3,-1).evalStock
+AlF3.fluoruro aluminico.(3,-1).evalTrad
+KCl.monocloruro de potasio.(1,-1).evalSist
+KCl.cloruro de potasio.(1,-1).evalStock
+KCl.cloruro potasico.(1,-1).evalTrad
+CuCl2.dicloruro de cobre.(2,-1).evalSist
+CuCl2.cloruro de cobre(II).(2,-1).evalStock
+CuCl2.cloruro cuprico.(2,-1).evalTrad
+Au2S.monosulfuro de dioro.(1,-2).evalSist
+Au2S.sulfuro de oro(I).(1,-2).evalStock
+Au2S.sulfuro auroso.(1,-2).evalTrad
+AlBr3.tribromuro de aluminio.(3,-1).evalSist
+AlBr3.bromuro de aluminio.(3,-1).evalStock
+AlBr3.bromuro aluminico.(3,-1).evalTrad
+TiN.mononitruro de titanio.(3,-3).evalSist
+TiN.nitruro de titanio(III).(3,-3).evalStock
+TiN.nitruro titanioso.(3,-3).evalTrad
+InN.mononitruro de indio.(3,-3).evalSist
+InN.nitruro de indio.(3,-3).evalStock
+InN.nitruro indico.(3,-3).evalTrad
+GaSb.monoantimoniuro de galio.(3,-3).evalSist
+GaSb.antimoniuro de galio.(3,-3).evalStock
+GaSb.antimoniuro galico.(3,-3).evalTrad
+ZnSe.monoseleniuro de cinc.(2,-2).evalSist
+ZnSe.seleniuro de cinc.(2,-2).evalStock
+ZnSe.seleniuro cincico.(2,-2).evalTrad
+UF3.trifluoruro de uranio.(3,1).evalSist
+UF3.fluoruro de uranio(III).(3,1).evalStock
+UF3.fluoruro hipouranioso.(3,1).evalTrad
+UF4.fluoruro uranioso.(4,1).evalTrad
+UF5.fluoruro uranico.(5,1).evalTrad
+UF6.fluoruro peruranico.(6,1).evalTrad
